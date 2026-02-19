@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/Mathematics-Yang" width="150" style="border-radius: 50%;" />
 
-# 👋 Hi, I'm Jianan Yang (杨嘉楠)
+# 👋 Hi, I'm Mathematics-Yang
 
 **🎓 Graduate Student @ Xi'an Jiaotong University (XJTU)**
 
@@ -10,7 +10,7 @@
 
 *Exploring trustworthy and interpretable AI through LLM reasoning mechanisms*
 
-📧 [JiananYang@stu.xjtu.edu.cn](mailto:JiananYang@stu.xjtu.edu.cn)
+📧 Email: [JiananYang@stu.xjtu.edu.cn](mailto:JiananYang@stu.xjtu.edu.cn)
 
 ---
 
@@ -37,25 +37,10 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mathematics-Yang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mathematics-Yang&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mathematics-Yang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mathematics-Yang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mathematics-Yang&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mathematics-Yang&layout=compact&hide_border=true&langs_count=8" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathematics-Yang&theme=default" width="700" />
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mathematics-Yang&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mathematics-Yang&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathematics-Yang&hide_border=true" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathematics-Yang&theme=default" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mathematics-Yang&theme=default&utcOffset=8" height="170" />
 
 </div>
 
