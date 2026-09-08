@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Homepage-6A11CB?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage" />
 </a>
 <a href="mailto:jiananyang@stu.xjtu.edu.cn">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logoColor=white" alt="Email" />
 </a>
 <a href="https://scholar.google.com/citations?user=Jh3fyXUAAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
@@ -83,7 +83,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-111111?style=flat-square&logoColor=white)
-![Doubao](https://img.shields.io/badge/Doubao-2F6BFF?style=flat-square&logoColor=white)
+![Doubao](https://img.shields.io/badge/Doubao-2F6BFF?style=flat-square&logo=bytedance&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
 ![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square&logo=kimi&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-155EEF?style=flat-square&logoColor=white)
@@ -95,11 +95,6 @@
 ![Trae](https://img.shields.io/badge/Trae-111827?style=flat-square&logo=trae&logoColor=32F08C)
 
 ## GitHub Overview
-
-<details open>
-<summary><strong>Contribution Activity</strong></summary>
-
-<br />
 
 <div align="center">
 
@@ -115,20 +110,9 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathematics-Yang&theme=default"
     width="100%"
-    alt="GitHub contribution activity"
+    alt="GitHub contribution overview"
   />
 </picture>
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>Profile Statistics</strong></summary>
-
-<br />
-
-<div align="center">
 
 <picture>
   <source
@@ -145,7 +129,6 @@
     alt="GitHub statistics"
   />
 </picture>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -164,30 +147,39 @@
 
 </div>
 
-</details>
-
 <br />
 
 ---
 
 <div align="center">
 
-<p>
-  <a href="https://www.kaggle.com/mathematicsyang">Kaggle</a>
-  &nbsp;·&nbsp;
-  <a href="https://space.bilibili.com/628717280">Bilibili</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/5e894c4b0000000001004f65">Xiaohongshu</a>
-</p>
+<p><strong>Keep learning. Keep creating.</strong></p>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Mathematics-Yang&color=6A11CB&style=flat-square&label=Profile+Views"
-  alt="Profile views"
-/>
+<a href="mailto:jiananyang@stu.xjtu.edu.cn">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Mathematics-Yang">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://scholar.google.com/citations?user=Jh3fyXUAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+</a>
+<a href="https://orcid.org/0009-0005-9919-4945">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+<a href="https://www.kaggle.com/mathematicsyang">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="https://space.bilibili.com/628717280">
+  <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
+</a>
+<a href="https://www.xiaohongshu.com/user/profile/5e894c4b0000000001004f65">
+  <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
+</a>
 
 <br />
 <br />
 
-<sub>Thanks for visiting — feel free to connect or explore my projects.</sub>
+<sub>© 2026 Jianan Yang · Designed and built by Jianan Yang</sub>
 
 </div>
